@@ -1,3 +1,3 @@
 # JavaDevelopment
 Mainly this is a repository of java project development.In this repository there are basic to advance level projects available.
-Now it's own by rootcode125
+Now it's owned by rootcode125
